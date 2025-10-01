@@ -1,7 +1,7 @@
-
-Run Migrations
+--the this
+--Run Migrations
 http://localhost/Sweeftdigit-project/run_migrations.php
 
-
-Rollback Migrations
+--run this first
+--Rollback Migrations
 http://localhost/Sweeftdigit-project/rollback_migrations.php
